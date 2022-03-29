@@ -18,6 +18,7 @@
   <img align="center" alt="Dvyson-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />   
   <img align="center" alt="Dvyson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Dvyson-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="right" alt="Dvyson-picture" height="150" style="border-radius:50px;" src="https://discordapp.com/channels/843649075554549762/843649076159316061/958203364695486464">
 </div>
   
   ##
